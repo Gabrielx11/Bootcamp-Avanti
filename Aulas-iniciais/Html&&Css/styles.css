@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(64, 103, 134);
+}
+
+.fire {
+    color: rgb(231, 133, 42);
+}
+
+#picachu {
+    color: rgb(209, 180, 14);  
+}
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.card {
+    background-color: #fff;
+    border-radius: 25px;
+    width: 200px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.card img {
+    width: 120px;
+    height: 120px;
+}
+.card h3 {
+    font-size: 32px;
+}
+#container_timePK {
+    color: #f7fafa;
+    text-align: center;
+    font-size: 45px;
+}
+
+#pokebola {
+    width: 200px; 
+    height: auto;
+    text-align: center;
+}
