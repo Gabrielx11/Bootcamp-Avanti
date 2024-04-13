@@ -23,15 +23,16 @@ Focado em tecnologias front-end, back-end e Banco de Dados, proporcionado uma in
 
  <div style="display: inline_block">
     <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
    <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Prisma" height="40" width="40" src="https://github.com/Gabrielx11/Bootcamp-Avanti/assets/92554838/0bf52faa-c192-44d4-a99e-ae9d10766f67" />
+    
  </div>
  <br/>
 
 ### Database
 <div style="display: inline_block">
       <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-      <img align="center" alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+      <img align="center" alt="Prisma" height="40" width="40" src="https://github.com/Gabrielx11/Bootcamp-Avanti/assets/92554838/0bf52faa-c192-44d4-a99e-ae9d10766f67" />
       <img align="center" alt="SQL" height="40" width="40" src="https://github.com/Gabrielx11/Bootcamp-Avanti/assets/92554838/cc3cd618-5a6a-47b8-a404-d73ca05a3924" />
 </div>
   <br/>
