@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pokemon Cards</title>
    <link rel="stylesheet" href="styles.css">
+   <script src="main.js"></script>
    
    <style> 
         h3 {
@@ -16,29 +17,32 @@
 </head>
 <body>
         <div id="container_timePK">
-            <h1 style="text-shadow: 2px 2px 4px rgb(0, 0, 0);">Meu time Pokemon</h1>
-            <img id="pokebola" src="https://www.pngall.com/wp-content/uploads/4/Pokemon-Pokeball-PNG-Photo.png" alt="">
+            <h1 id="titulo" style="text-shadow: 2px 2px 4px rgb(0, 0, 0);">Meu time Pokemon</h1>
+            <img class="pokebola" src="https://www.pngall.com/wp-content/uploads/4/Pokemon-Pokeball-PNG-Photo.png" alt="">
         </div>
 
         <div id="container">
-            <div class="card">
+            <div class="card" onclick="shownName('Caterpie')">
                 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png" alt="">
                 <h3  style="font-size: 32px; color: rgb(49, 177, 145);">Caterpie</h3>
             </div>
-            <div class="card">
+            <div class="card" onclick="shownName('Charmander')">
                 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png" alt="">
                 <h3 class="fire">Charmander</h3>
             </div>
-            <div class="card">
+            <div class="card" onclick="shownName('Pikachu')">
                 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="">
                 <h3 id="picachu">Pikachu</h3>
             </div>
-            <div class="card">
+            <div class="card" onclick="shownName('Squirtle')">
                 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="">
                 <h3 style="color: rgb(68, 192, 223);">Squirtle</h3>
             </div>
 
         </div>
 
+        <script>
+           
+        </script>
 </body>
 </html>
