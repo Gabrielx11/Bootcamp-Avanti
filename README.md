@@ -32,8 +32,8 @@ Focado em tecnologias front-end, back-end e Banco de Dados, proporcionado uma in
 <div style="display: inline_block">
       <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
       <img align="center" alt="Insomnia" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
-      
-  
+      <img align="center" alt="SQL" height="40" width="40" src="https://github.com/Gabrielx11/Bootcamp-Avanti/assets/92554838/cc3cd618-5a6a-47b8-a404-d73ca05a3924" />
+</div>
   <br/>
   
   ###  Tools
@@ -42,6 +42,6 @@ Focado em tecnologias front-end, back-end e Banco de Dados, proporcionado uma in
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
   <img align="center" alt="GitHub" height="40" width="40" src="https://github.com/Gabrielx11/Bootcamp-Avanti/assets/92554838/56762c01-d03c-42f8-98c3-c8ce8da290db"/>  
   <img align="center" alt="DBeaver" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"/>
-    
-
 </div>
+
+##
