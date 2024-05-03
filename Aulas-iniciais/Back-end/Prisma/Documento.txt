@@ -1,0 +1,49 @@
+npm init -> Cria um projeto Node.js gerando um arquivo 'package.json'.
+            Este arquivo contém todas as informações fornecida durante
+            a inicialização, além de outras informações importantes, como
+            as dependências do projeto e os scripts de execução que você 
+            pode definir para automatizar tarefas comuns relacionadas ao desenvolvimento.
+=============================================================================================================
+-----------------------------------       -----------------------------------------------------     
+
+--init prisma-- ( init é uma abreviação de "initialize" -inicializar- )
+
+npm install prisma ->  instala o pacote Prisma onde incluem
+__________________________________________________________________________________________               |   
+ Prisma Client: Uma biblioteca que permite interagir com seu banco de dados de forma amigável e com      |                                                     
+ segurança de tipo, usando TypeScript ou JavaScript.                                                     |
+                                                                                                         |
+ Prisma Migrate: Uma ferramenta para definir e gerenciar as migrações do seu banco de dados,             |
+ garantindo que seu banco de dados esteja sempre em sincronia com seu modelo de dados.                   |
+                                                                                                         |
+ Prisma Studio: Uma interface gráfica para visualizar e editar dados em seu banco de dados.              |
+__________________________________________________________________________________________               |
+
+npx prisma init =>  Está iniciando o processo de configuração do Prisma no projeto, gerendo 
+                    diversos arquivo, como por exemplo o 'schema.prisma'.
+
+schema.prisma ->  Este arquivo define e mapeia o modelo de dados do seu banco, incluindo
+                  as tabelas, colunas e relacionamentos entre elas.
+
+.env -> Local onde se conecta o banco
+      ° DATABASE_URL - URL do Banco (Deve está declarado tanto no schema como no .env)[]
+
+npx prisma migrate <Instância declarada na criação do schema>  dev ->
+                 Cria um arquivo com códigos SQL com todas as informações mapeadas
+                 pelo 'schema'  
+
+
+npm install express -> Instala biblioteca express
+
+npm install nodemon --save-dev  -> Instala o nodemon
+
+
+                              METODOS
+
+.findMany -> O método é uma função que permite consultar vários registros
+             de uma tabela no banco de dados.
+       EX:  'const clients = await prismaClient.client.findMany();'
+                   Variável          Banco      Tabela   Metodo
+                   
+=============================================================================================================
+-----------------------------------        -----------------------------------------------------
